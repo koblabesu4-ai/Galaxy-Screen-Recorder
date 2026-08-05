@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Screen Recorder</string>
+    <string name="notif_channel">Recording</string>
+    <string name="notif_recording">Recording screen…</string>
+    <string name="notif_paused">Recording paused</string>
+</resources>
